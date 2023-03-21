@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ShowTodo = ({props, DeleteData,id , Task}) => {
+const ShowTodo = ({ DeleteData, id, Task }) => {
   return (
     <div className="container">
       <div className="row  my-2 ">
